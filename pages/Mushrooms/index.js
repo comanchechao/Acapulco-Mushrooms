@@ -1,9 +1,9 @@
-import Navbar from "../../components/Navbar";
+
 
 const Mushrooms = () => {
   return (
-    <div>
-        <Navbar />
+    <div className="w-full h-full items-center justify-center">
+      <h2>Mushrooms mother fucker</h2>
     </div>
   );
 };

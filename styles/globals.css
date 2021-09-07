@@ -7,12 +7,10 @@ nav mushroom
 <a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>  */
 
 .homeDiv{
-    background-image: url('/Brownmushroom.jpg');
     background-size: cover;
 }
 
 .navbar{
-    background-image: url('/navMushroom.jpg');
     background-size: 500px;
 }
 
